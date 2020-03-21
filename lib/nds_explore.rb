@@ -8,7 +8,7 @@ def pretty_print_nds(nds)
   require 'pp'
 
 
-  nds
+  directors_database
   # Change the code below to pretty print the nds with pp
   nil
 end
