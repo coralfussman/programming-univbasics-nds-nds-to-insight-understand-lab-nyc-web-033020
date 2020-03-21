@@ -4,7 +4,7 @@ require 'directors_database'
 directors_database
 
 def pretty_print_nds(nds)
-
+require 'pp'
   pp nds
 
 
