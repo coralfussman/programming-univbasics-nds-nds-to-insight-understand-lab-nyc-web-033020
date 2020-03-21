@@ -5,10 +5,10 @@ directors_database
 
 def pretty_print_nds(nds)
 
-  require 'pp'
+  pp nds
 
 
-  directors_database
+
   # Change the code below to pretty print the nds with pp
   nil
 end
